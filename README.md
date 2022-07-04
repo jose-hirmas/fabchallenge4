@@ -18,10 +18,11 @@ The main concept is about an inteligent machine/software that can identify peopl
 
 ![](images/initialconcept.jpg)
 
+The project is called **Bottling Identities** and it is using beer as an outcome to explore cultures and generate empathy for social development.
 
+Personal reflection: https://www.youtube.com/embed/DV1d7ibOwa4
 
-
-Propose (what is supossed to do)
+## Propose (what is supossed to do)
 
 Planification and Execution
 
