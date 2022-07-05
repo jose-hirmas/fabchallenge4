@@ -93,14 +93,22 @@ Each participant had the opportunity to choose ingredients and raw materials tha
 ![](images/workshop2.jpg)
 ![](images/workshop3.jpg)
 
+## Honest Design
+
+The machine learning prototyping experience has make me aware about how challenging is to involve identities into a binary language. Each people´s identity is unique and the classification of emotions, skills, atittudes, ethnicity, is just a way of simplifying but sometimes is to superficial and generalized. 
+
+The workshop experience and the interviews to different people around the world has been nurishing my research project in a meaninful way. Just to hear stories, understand backgrounds and try to empathize, is a first great step for developing solutions that can generate powerful and positive social impacts.
 
 
-Honest Design
-
-Future Development
+## Future Development
 
 As the interviews are getting done, I am getting fascinated by the stories, different people, and culture, so the next step is to prepare a mini documentary that can show “the stories behind brewing”.
 
+## Long Term Dissemination Plan: 
 
 
-Long Term Dissemination Plan: It means how will you raise awareness of your project amongst the target group. The dissemination plan might answer questions such as: who is your project for, how is it funded, is there a license you chose or something else to protect intellectual properties of your project, is there a business plan, how would you fund scaling up, etc.
+
+It means how will you raise awareness of your project amongst the target group. The dissemination plan might answer questions such as: who is your project for, how is it funded, is there a license you chose or something else to protect intellectual properties of your project, is there a business plan, how would you fund scaling up, etc.
+
+
+
