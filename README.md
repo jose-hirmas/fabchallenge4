@@ -58,9 +58,21 @@ One specific interview that was special for me was with Canaan Khoury, from Tayb
 
 ![](images/beerworld.jpg)
 
-### Stage 3: Front-End Development
+### Stage 3: Exploring Machine Learning
 
-System Diagram (illustration explaining function, parts and relations)
+I got very inspired with the software: Wekinator. The Wekinator is free, open source software. Wekinator 1.0 was originally created in 2009 by Rebecca Fiebrink. In 2015, Rebecca released Wekinator 2.0, an entirely new version with redesigned interactions, new algorithms, and ability to connect easily to dozens of other creative coding tools and sensors. Wekinator 2.0 continues to be gently updated with bug fixes and feature requests.It allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more. The Wekinator allows users to build new interactive systems by demonstrating human actions and computer responses, instead of writing programming code.
+
+Example applications include: Creation of new musical instruments, Create mappings between gesture and computer sounds. Control a drum machine using your webcam! Play Ableton using a Kinect!, Creation of gesturally-controlled animations and games, Control interactive visual environments created in Processing, OpenFrameworks, or Quartz Composer, or game engines like Unity, using gestures sensed from webcam, Kinect, Arduino, etc.
+Creation of systems for gesture analysis and feedback, Build classifiers to detect which gesture a user is performing. Use the identified gesture to control the computer or to inform the user how he’s doing. Creation of real-time music information retrieval and audio analysis systems.
+More info in: http://www.wekinator.org
+
+For prototyping facial recognition I used a Teachable Machine. I decided to work with 4 basic emotions (happiness,sadness, anger, fear) and test it in a first person perspective, analyzing my own facial expressions. 
+
+![](images/facialexpression.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBQayGb0dLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## System Diagram (illustration explaining function, parts and relations)
 
 Integrated Design
 Honest Design
