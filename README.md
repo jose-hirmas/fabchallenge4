@@ -77,8 +77,12 @@ A short video of prototyping: https://www.youtube.com/watch?v=rBQayGb0dLk
 
 ![](images/sketchfab4.jpg)
 
+## Integrated Design
 
-Integrated Design
+For the development of the project I organized a workshop that could help me understand the meaning behind beer for different people and backgrounds. 
+
+
+
 Honest Design
 Be Creative
 Explore Design Boundaries
