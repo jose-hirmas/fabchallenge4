@@ -68,11 +68,10 @@ More info in: http://www.wekinator.org
 
 For prototyping facial recognition I used a Teachable Machine. I decided to work with 4 basic emotions (happiness,sadness, anger, fear) and test it in a first person perspective, analyzing my own facial expressions. 
 
-![](images/facialexpression.jpg)
+![](images/face1.jpg)
 ![](images/codigofab4.jpg)
 
 A short video of prototyping: https://www.youtube.com/watch?v=rBQayGb0dLk
-
 
 ## System Diagram
 
