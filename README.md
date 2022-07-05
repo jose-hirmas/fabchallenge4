@@ -33,11 +33,33 @@ For the beer final output, the research includes understanding the crafting proc
 
 ## Planification and Execution
 
-Stage 1:
+### Stage 1: Research Emotions and Facial Recognition
 
-Stage 2:
+![](images/facereco1.jpg)
+Random generative grammar of facial movements and the perceptual categorization of emotions. (Stimulus) On each experimental trial, the facial movement generator randomly selected a subset of facial movements, called action units (AUs) (here, AU9 color coded in red, AU10 Left in green, and AU17 in blue) and values specifying the AU temporal parameters (see color-coded temporal curves). On the basis of these parameters, the generator rendered a three-dimensional facial animation of random facial movements, illustrated here with four snapshots. The color-coded vector Below represents the 3 (of 41) randomly selected AUs comprising the stimulus on this illustrative experimental trial. (Mental representations) Observers categorized each random facial animation according to the six basic emotion categories (plus "don't know") and rated the emotional intensity on a five-point scale. Observers will interpret the random facial animation as a meaningful facial expression (here, "disgust," "medium intensity") when the facial movements correspond to the observer's mental representation of that facial expression. Each observer (15 Western Caucasian and 15 East Asian) categorized 4,800 such facial animations of same and otherrace faces.
 
-Stage 3:
+![](images/facereco2.jpg)
+Spatiotemporal location of emotional intensity representation in Western Caucasian and East Asian culture. In each row, color-coded faces show the culture-specific spatiotemporal location of expressive features representing emotional intensity, for each of the six basic emotions. Color coding is as follows: blue, Western Caucasian; red, East Asian, where values reflect the t statistic. All color-coded regions show a significant (P < 0.05) cultural difference as indicated by asterisks labeled on the color bar. Note for the EA models (i.e., red face regions), emotional intensity is represented with characteristic early activations.
+
+![](images/facereco3.jpg)
+
+*Facial expressions of emotion are not culturally universal, Rachel E Jack, University of Glasgow*
+
+### Stage 2: Categorization
+
+Part of my research project is about understanding different cultures that are beyond brewing.A series of interviews to different master brewers, brewery owners and people related to craft beer. Each interview is conducted by video call or in person depending on the location.
+
+The questions that guide each interview are: - Present yourself. (Who are you?) - Tell the story about this brewery. How and why was born? - What does this beer(s) represent? - If you could make a beer that represents the world right now, how would it be? - What is beer going to mean in the future?
+
+In the last months I have contacted more than 20 craft breweries around the world and the interviews are in process.
+
+One specific interview that was special for me was with Canaan Khoury, from Taybeh Bewing Company. This is the only brewery from Palestine. We talked about immigration, challenges of a country that has been in constant war, lifestyle and the future of beer and society. It was meaningful because my ancestors are from Palestine and came to Chile looking for opportunities, so I felt emotional and empathize with the stories behind brewing.
+
+
+
+
+
+### Stage 3: Front-End Development
 
 System Diagram (illustration explaining function, parts and relations)
 
@@ -46,4 +68,9 @@ Honest Design
 Be Creative
 Explore Design Boundaries
 Future Development
+
+As the interviews are getting done, I am getting fascinated by the stories, different people, and culture, so the next step is to prepare a mini documentary that can show “the stories behind brewing”.
+
+
+
 Long Term Dissemination Plan: It means how will you raise awareness of your project amongst the target group. The dissemination plan might answer questions such as: who is your project for, how is it funded, is there a license you chose or something else to protect intellectual properties of your project, is there a business plan, how would you fund scaling up, etc.
