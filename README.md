@@ -92,13 +92,13 @@ Each participant had the opportunity to choose ingredients and raw materials tha
 ![](images/workshop1.jpg)
 ![](images/workshop2.jpg)
 ![](images/workshop3.jpg)
+![](images/immigrantbeer.jpg)
 
 ## Honest Design
 
 The machine learning prototyping experience has make me aware about how challenging is to involve identities into a binary language. Each people´s identity is unique and the classification of emotions, skills, atittudes, ethnicity, is just a way of simplifying but sometimes is to superficial and generalized. 
 
 The workshop experience and the interviews to different people around the world has been nurishing my research project in a meaninful way. Just to hear stories, understand backgrounds and try to empathize, is a first great step for developing solutions that can generate powerful and positive social impacts.
-
 
 ## Future Development
 
