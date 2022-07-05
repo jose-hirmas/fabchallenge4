@@ -22,11 +22,24 @@ The project is called **Bottling Identities** and it is using beer as an outcome
 
 Personal reflection: https://www.youtube.com/embed/DV1d7ibOwa4
 
-## Propose (what is supossed to do)
+## Proposal
 
-Planification and Execution
+What if we could embodied ourselves in another thing? The proposal for this project is to explore the possibility of transforming a person´s identity into a specific type of beer. 
 
-System Diagram (illustration explaining function, parts and relations=
+Using artificial intelligence we could program a software that allow as to categorize people´s identities into different topics such as: emotions, skills, attitudes, culture, among others. With sensors we could detect and allign different movements and sounds, getting information from the exterior and transforming it into a numeric value. Each value would have a different meaning according to the previous classification we gave to identities.
+
+For the beer final output, the research includes understanding the crafting process and selecting the the exact mix and amount of ingredients that make the beer unique an special, according to each identity. 
+
+
+## Planification and Execution
+
+Stage 1:
+
+Stage 2:
+
+Stage 3:
+
+System Diagram (illustration explaining function, parts and relations)
 
 Integrated Design
 Honest Design
