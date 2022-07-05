@@ -70,7 +70,8 @@ For prototyping facial recognition I used a Teachable Machine. I decided to work
 
 ![](images/facialexpression.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBQayGb0dLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A short video of prototyping: https://www.youtube.com/watch?v=rBQayGb0dLk
+
 
 ## System Diagram (illustration explaining function, parts and relations)
 
