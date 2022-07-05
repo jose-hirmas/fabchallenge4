@@ -36,6 +36,7 @@ For the beer final output, the research includes understanding the crafting proc
 ### Stage 1: Research Emotions and Facial Recognition
 
 ![](images/facereco1.jpg)
+
 Random generative grammar of facial movements and the perceptual categorization of emotions. (Stimulus) On each experimental trial, the facial movement generator randomly selected a subset of facial movements, called action units (AUs) (here, AU9 color coded in red, AU10 Left in green, and AU17 in blue) and values specifying the AU temporal parameters (see color-coded temporal curves). On the basis of these parameters, the generator rendered a three-dimensional facial animation of random facial movements, illustrated here with four snapshots. The color-coded vector Below represents the 3 (of 41) randomly selected AUs comprising the stimulus on this illustrative experimental trial. (Mental representations) Observers categorized each random facial animation according to the six basic emotion categories (plus "don't know") and rated the emotional intensity on a five-point scale. Observers will interpret the random facial animation as a meaningful facial expression (here, "disgust," "medium intensity") when the facial movements correspond to the observer's mental representation of that facial expression. Each observer (15 Western Caucasian and 15 East Asian) categorized 4,800 such facial animations of same and otherrace faces.
 
 ![](images/facereco2.jpg)
@@ -55,9 +56,7 @@ In the last months I have contacted more than 20 craft breweries around the worl
 
 One specific interview that was special for me was with Canaan Khoury, from Taybeh Bewing Company. This is the only brewery from Palestine. We talked about immigration, challenges of a country that has been in constant war, lifestyle and the future of beer and society. It was meaningful because my ancestors are from Palestine and came to Chile looking for opportunities, so I felt emotional and empathize with the stories behind brewing.
 
-
-
-
+![](images/beerworld.jpg)
 
 ### Stage 3: Front-End Development
 
