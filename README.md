@@ -73,7 +73,10 @@ For prototyping facial recognition I used a Teachable Machine. I decided to work
 A short video of prototyping: https://www.youtube.com/watch?v=rBQayGb0dLk
 
 
-## System Diagram (illustration explaining function, parts and relations)
+## System Diagram
+
+![](images/sketchfab4.jpg)
+
 
 Integrated Design
 Honest Design
