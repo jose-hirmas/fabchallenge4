@@ -106,9 +106,27 @@ As the interviews are getting done, I am getting fascinated by the stories, diff
 
 ## Long Term Dissemination Plan: 
 
+During the last term of MDEF, with some classmates we started talking about how to continue our journey together and as time went by, this idea became stronger. So, we set a weekly meeting for discussing our common purpose and sharing our personal dreams, which emerged into a design collective: Moving Works Collective
+
+What? We are a collective of multidisciplinary creatives, thinking and doing “crazy stuff” that generates positive effects for society. (By “crazy stuff”’ we mean: alternative presents we love and what the world needs)
+
+Why? We believe in human beings as a force of good ( social value) starting from local solutions to scalable realities (ecological value), sharing knowledge and with a multidisciplinary scope (joining forces). We have a curious mindset, seeking alternatives beyond our boundaries ( exploration and playfulness), with transparency and open-sourcing for democratizing design (open by default”).
+
+Who? Beings that share a common purpose and values, and we enjoy working with: Joaquin Rosas, Christian Ernst, Roberto Broce and José Hirmas (me).
+
+How? Honesty: Well-meaning and radically open communication is key. If there are issues, we are not afraid of naming them. Transparency results in accountability; honesty fosters friendships.
+
+Care: We do this because we love to do it, we care. Build mindfully and with care, take time to be slow. Don’t move fast if there might be things to break or people to hurt.
+
+Critical Thinking: We never settle for “we’ve always done it like that”. Wherever possible, question the status quo and develop new paradigms.
+
+Distributed: Think global, act local. We are able to work from everywhere, at any time, with everyone. Global citizens with their feet in the midst of local communities.
+
+Playfulness: We are kids at heart. Curiosity is the driver of creativity. We believe this is the only way to face uncertainty and rapid change.
+
+2022 Plan: For this year we are planning in participating in some design festivals and doing specific exhibitions, and continue developing projects around the topics of technology, education, social development, arts, design and new materials. Also, I am starting a Residency Research program with Food Shift 2030.
 
 
-It means how will you raise awareness of your project amongst the target group. The dissemination plan might answer questions such as: who is your project for, how is it funded, is there a license you chose or something else to protect intellectual properties of your project, is there a business plan, how would you fund scaling up, etc.
 
 
 
