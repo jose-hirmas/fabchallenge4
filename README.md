@@ -75,17 +75,28 @@ A short video of prototyping: https://www.youtube.com/watch?v=rBQayGb0dLk
 
 ## System Diagram
 
-![](images/sketchfab4.jpg)
+![](images/sketch.jpg)
 
 ## Integrated Design
 
 For the development of the project I organized a workshop that could help me understand the meaning behind beer for different people and backgrounds. 
+The workshop was about what constructs our personal identities connecting ingredients and raw materials with emotions, interests, and culture.
+
+Each participant had the opportunity to choose ingredients and raw materials that represent themselves, putting them together into a bottle or “bottling the identity”, sharing our stories.
+
+- Choose the ingredients and fill the bottles (10 min)
+- Share each story (30 min)
+- Try experimental beers with ingredients.
+- Respond: What will the beer mean in the future? (5 min)
+
+![](images/workshop1.jpg)
+![](images/workshop2.jpg)
+![](images/workshop3.jpg)
 
 
 
 Honest Design
-Be Creative
-Explore Design Boundaries
+
 Future Development
 
 As the interviews are getting done, I am getting fascinated by the stories, different people, and culture, so the next step is to prepare a mini documentary that can show “the stories behind brewing”.
